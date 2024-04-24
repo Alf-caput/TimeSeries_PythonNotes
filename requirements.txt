@@ -1,0 +1,11 @@
+# run cells
+ipykernel
+
+# pdf convert
+notebook
+
+# packages
+numpy
+pandas
+matplotlib
+statsmodels
